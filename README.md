@@ -2,6 +2,15 @@
 
 This is a full-stack project with a Next.js client-side application and a Node.js/Express backend. This README provides setup instructions for both the client and server parts of the project.
 
+Front end is deployed on vercel and backend on render
+
+## Deployment
+
+- **Frontend**: Deployed on [Vercel](https://crework-jade.vercel.app/login).
+- **Backend**: Deployed on [Render](https://crework-znkk.onrender.com/).
+
+  **Note**: Render may pause the server if no requests are made. As a result, new requests may take up to 2 minutes to start. Be aware of this potential delay when interacting with the backend.
+
 ## Prerequisites
 
 - Node.js (v14 or later)
