@@ -21,8 +21,6 @@ app.get("/", (req, res) => {
   res.send("server working");
 });
 
-//
-
 app.listen(process.env.PORT, async () => {
   try {
     await connection;
